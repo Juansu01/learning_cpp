@@ -2,7 +2,7 @@
 # <p align="center"> AirBnB clone - The console <p>
 <img src="https://i.ibb.co/R6g7P2W/65f4a1dd9c51265f49d0.png" alt="hbnb project">
 
-This project is the first step to building our first web application, which is going to be a AirBnB clone. This project is going to cover essential topics that will teach us how to create and deploy a web application.
+This project is the first step to building our first web application, which is going to be an AirBnB clone. This project is going to cover essential topics that will teach us how to create and deploy a web application.
 
 ## Folders.
 
@@ -23,3 +23,21 @@ Enter the following command to excecute our console.
 ```
 ./console.py
 ```
+This is an example of what our console outputs when you excecute the command "help"
+```
+~/AirBnB_clone# ./console.py 
+(hbnb) help
+
+Documented commands (type help <topic>):
+========================================
+EOF  all  create  destroy  help  quit  show  update
+
+(hbnb) 
+```
+
+### Command descriptions.
+
+| Command     | Arguments   | Description   |
+|             |             |               |
+| help        |help <command>| This command will display all available commands, using it with another command next to it will display information about the second command.   |
+| Paragraph   | Text        | And more      |

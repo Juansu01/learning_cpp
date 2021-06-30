@@ -19,7 +19,7 @@ Clone the repository using this command.
 git clone https://github.com/vanemcb/AirBnB_clone.git
 ```
 
-## Console description.
+## Console description. 📜
 
 This is the console we use in order to manipulate and handle our objects.
 
@@ -55,7 +55,7 @@ EOF  all  create  destroy  help  quit  show  update
 | EOF         | No Arguments       | Use "Ctr + D" to excecute this command.   |
 | help        | <command_name>        | Displays all available commands or information about the command you type next to it.|
 
-### Command examples.
+### Command examples. 🖥️
 
 ```
 (hbnb) create BaseModel
@@ -86,3 +86,9 @@ all instances based or not on the class name.
 
 (hbnb)
 ```
+
+# Authors 👩‍💻👨‍💻👨‍💻
+
+- [@Vanessa Mususué](https://github.com/vanemcb)
+- [@Mateo Londoño](https://github.com/Matteo-lu)
+- [@Juan Camilo Cadavid](https://github.com/Juansu01)

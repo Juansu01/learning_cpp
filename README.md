@@ -39,11 +39,11 @@ EOF  all  create  destroy  help  quit  show  update
 
 | Command     | Arguments   | Description   |
 | :---        | :---        | :---          |
-| create      | <class name> | Creates a new instance of a class and prints its id.|
-| show        | <class name> <id> | Prints the string representation of an instance based on the class name and id.|
-| destroy     | <class name> <id>     | Deletes an instance based on the class name and id. |
-| all         | <class name (optional)>       | Prints all string representation of all instances based or not on the class name. |
-| update      | <class name> <id> <attribute name> "<attribute value>"       | Updates an instance based on the class name and id by adding or updating attribute.   |
+| create      | <class_name> | Creates a new instance of a class and prints its id.|
+| show        | <class_name> <id> | Prints the string representation of an instance based on the class name and id.|
+| destroy     | <class_name> <id>     | Deletes an instance based on the class name and id. |
+| all         | <class_name> (optional argument)       | Prints all string representation of all instances based or not on the class name. |
+| update      | <class_name> <id> <attribute_name> "<attribute_value>"       | Updates an instance based on the class name and id by adding or updating attribute.   |
 | quit        | No Arguments        | Exits the console.      |
 | EOF         | No Arguments       | Use "Ctr + D" to excecute this command.   |
 | help        | <command>        | Displays all available commands or information about the command you type next to it.|

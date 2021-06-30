@@ -4,7 +4,7 @@
 
 This project is the first step to building our first web application, which is going to be an AirBnB clone. This project is going to cover essential topics that will teach us how to create and deploy a web application.
 
-## Folders.
+## Folders. 📂
 
  - models: Contains all the scripts that define the classes for our models.
  - tests: Contains all the test scripts that we use in order to test our methods and classes.
@@ -25,19 +25,24 @@ Enter the following command to excecute our console.
 ```
 This is an example of what our console outputs when you excecute the command "help"
 ```
-~/AirBnB_clone# ./console.py 
+~/AirBnB_clone# ./console.py
 (hbnb) help
 
 Documented commands (type help <topic>):
 ========================================
 EOF  all  create  destroy  help  quit  show  update
 
-(hbnb) 
+(hbnb)
 ```
 
 ### Command descriptions.
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
+| Command     | Arguments   | Description   |
+| create      | create <ClassName> | Creates a new instance of a class and prints its id.|
+| Paragraph   | Text        | And more      |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |

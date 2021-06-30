@@ -37,7 +37,7 @@ EOF  all  create  destroy  help  quit  show  update
 
 ### Command descriptions.
 
-| Command     | Arguments   | Description   |
-|             |             |               |
-| help        |help <command>| This command will display all available commands, using it with another command next to it will display information about the second command.   |
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |

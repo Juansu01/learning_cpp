@@ -11,6 +11,13 @@ This project is the first step to building our first web application, which is g
  - AUTHORS: This file contains the authors of this project.
  - console.py: In this script we define a console that allows us to manage the objects of our project.
 
+## Installation. 🧰
+
+Clone the repository using this command.
+
+```bash
+git clone https://github.com/vanemcb/AirBnB_clone.git
+```
 
 ## Console description.
 

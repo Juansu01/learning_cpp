@@ -46,4 +46,4 @@ EOF  all  create  destroy  help  quit  show  update
 | update      | <class_name> <id> <attribute_name> "<attribute_value>"       | Updates an instance based on the class name and id by adding or updating attribute.   |
 | quit        | No Arguments        | Exits the console.      |
 | EOF         | No Arguments       | Use "Ctr + D" to excecute this command.   |
-| help        | <command>        | Displays all available commands or information about the command you type next to it.|
+| help        | <command_name>        | Displays all available commands or information about the command you type next to it.|

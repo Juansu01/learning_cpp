@@ -25,20 +25,21 @@ Enter the following command to excecute our console.
 ```
 This is an example of what our console outputs when you excecute the command "help"
 ```
-~/AirBnB_clone# ./console.py
+~/AirBnB_clone# ./console.py 
 (hbnb) help
 
 Documented commands (type help <topic>):
 ========================================
 EOF  all  create  destroy  help  quit  show  update
 
-(hbnb)
+(hbnb) 
 ```
 
 ### Command descriptions.
 
 | Command     | Arguments   | Description   |
-| create      | create <ClassName> | Creates a new instance of a class and prints its id.|
+|             |             |               |
+| Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |

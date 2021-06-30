@@ -25,14 +25,14 @@ Enter the following command to excecute our console.
 ```
 This is an example of what our console outputs when you excecute the command "help"
 ```
-~/AirBnB_clone# ./console.py 
+~/AirBnB_clone# ./console.py
 (hbnb) help
 
 Documented commands (type help <topic>):
 ========================================
 EOF  all  create  destroy  help  quit  show  update
 
-(hbnb) 
+(hbnb)
 ```
 
 ### Command descriptions.
